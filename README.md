@@ -1,8 +1,10 @@
-Here's a `README.md` file for your project based on the provided `package.json`, source code, and project structure:
 
----
+<img src="logo.svg" alt="DSO-DB Logo" width="200"/><br/><br/>
 
 # DSO-DB
+Open source Deep Sky Object database.
+
+---
 
 **DSO-DB** is a Node.js + TypeScript tool to build and upload a processed Deep Sky Object (DSO) database from the [OpenNGC catalog](https://github.com/mattiaverga/OpenNGC) to a Supabase PostgreSQL instance.
 
