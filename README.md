@@ -4,6 +4,12 @@
 # DSO-DB
 Open source Deep Sky Object database.
 
+![GitHub repo size](https://img.shields.io/github/repo-size/CelestialyXYZ/DSO-data)
+![GitHub last commit](https://img.shields.io/github/last-commit/CelestialyXYZ/DSO-data)
+![GitHub issues](https://img.shields.io/github/issues/CelestialyXYZ/DSO-data)
+![License](https://img.shields.io/github/license/CelestialyXYZ/DSO-data)
+![Node.js CI](https://img.shields.io/github/actions/workflow/status/CelestialyXYZ/DSO-data/node.js.yml?branch=main)
+![Coverage](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/yourusername/yourgistid/raw/coverage-badge.json)
 ---
 
 **DSO-DB** is a Node.js + TypeScript tool to build and upload a processed Deep Sky Object (DSO) database from the [OpenNGC catalog](https://github.com/mattiaverga/OpenNGC) to a Supabase PostgreSQL instance.
@@ -24,7 +30,7 @@ Open source Deep Sky Object database.
 ### 1. Clone & Install
 
 ```bash
-git clone https://github.com/yourusername/dso-db.git
+git clone https://github.com/CelestialyXYZ/DSO-data.git
 cd dso-db
 npm install
 ````
