@@ -13,7 +13,7 @@ Here's a `README.md` file for your project based on the provided `package.json`,
 - 📥 Downloads and parses the [OpenNGC NGC.csv](https://raw.githubusercontent.com/mattiaverga/OpenNGC/refs/heads/master/database_files/NGC.csv)
 - 🛠 Formats astronomical object data into structured JSON
 - ☁ Uploads the data to a Supabase database
-- 📊 Collects code coverage and supports unit tests using `ava` and `c8`
+- 📊 Collects code coverage and supports unit tests using `ava` and `c8` (not done, but frameworks are implemented)
 
 ---
 
