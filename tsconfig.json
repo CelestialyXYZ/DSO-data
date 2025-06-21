@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "module": "NodeNext",
+    "esModuleInterop": true,
+    "outDir": "./dist",
+    "moduleResolution": "nodenext",
+    "types": ["ava", "node"],
+    "noEmit": true,
+    "allowImportingTsExtensions": true
+  }
+}

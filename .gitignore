@@ -1,0 +1,9 @@
+coverage
+build
+out
+downloads
+package-lock.json
+node_modules
+.tsimp
+pnpm-lock.yaml
+.env
