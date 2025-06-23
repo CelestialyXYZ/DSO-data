@@ -1,7 +1,7 @@
 
 <img src="logo.svg" alt="DSO-DB Logo" width="200"/><br/><br/>
 
-# DSO-DB
+# DSO Database
 Open source Deep Sky Object database.
 
 ![GitHub repo size](https://img.shields.io/github/stars/CelestialyXYZ/DSO-data)
